@@ -1,1 +1,1 @@
-My first readme
+This describes my first coding exercises in ALX
